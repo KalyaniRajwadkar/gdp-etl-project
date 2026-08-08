@@ -196,7 +196,7 @@ The following screenshots are included in the `screenshots` folder and displayed
 
 ## 💻 Screenshot 1 — Python ETL Code
 
-<img width="635" height="685" alt="01_gdp_project_code" src="https://github.com/user-attachments/assets/2055edd1-b22c-415b-bada-7de6a761854b" />
+<img width="635" height="685" alt="01_gdp_project_code" src="https://github.com/user-attachments/assets/aca2cf4d-5d5c-4d73-a9dd-c3713ee06ddc" />
 
 
     screenshots/01_gdp_project_code.png

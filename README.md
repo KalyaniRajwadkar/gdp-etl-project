@@ -196,7 +196,8 @@ The following screenshots are included in the `screenshots` folder and displayed
 
 ## 💻 Screenshot 1 — Python ETL Code
 
-**Upload the screenshot with this exact filename:**
+<img width="635" height="685" alt="01_gdp_project_code" src="https://github.com/user-attachments/assets/2055edd1-b22c-415b-bada-7de6a761854b" />
+
 
     screenshots/01_gdp_project_code.png
 
@@ -210,7 +211,7 @@ This screenshot shows the Python ETL implementation used for the GDP project.
 
 ## 📊 Screenshot 2 — Successful GDP Output
 
-**Upload the screenshot with this exact filename:**
+<img width="1200" height="720" alt="02_gdp_output" src="https://github.com/user-attachments/assets/87df4e2e-dc1f-4dc0-a168-1a911a754ee4" />
 
     screenshots/02_gdp_output.png
 
@@ -224,7 +225,7 @@ This screenshot shows the successful execution output containing the processed G
 
 ## 🗄️ Screenshot 3 — SQL Query
 
-**Upload the screenshot with this exact filename:**
+<img width="1095" height="430" alt="03_gdp_sql_query" src="https://github.com/user-attachments/assets/08e1849b-02ca-4b5f-8d7d-ea2b7a12d34b" />
 
     screenshots/03_gdp_sql_query.png
 
@@ -238,7 +239,7 @@ This screenshot shows the SQL/database query used to analyze the GDP data.
 
 ## ✅ Screenshot 4 — Project Execution
 
-**Upload the screenshot with this exact filename:**
+<img width="1410" height="580" alt="04_gdp_project_completion" src="https://github.com/user-attachments/assets/c20e29d8-deb9-4100-91a7-443341a0a3ad" />
 
     screenshots/04_gdp_project_completion.png
 
